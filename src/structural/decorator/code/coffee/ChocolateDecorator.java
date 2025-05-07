@@ -1,14 +1,14 @@
-package structural.decorator.example.coffee;
+package structural.decorator.code.coffee;
 
 import java.math.BigDecimal;
 
-public class CaramelDecorator extends CoffeeDecorator {
+public class ChocolateDecorator extends CoffeeDecorator {
 
-    private final BigDecimal PRICE = BigDecimal.valueOf(500L);
-    private final String DESCRIPTION = " with caramel";
+    private final BigDecimal PRICE = BigDecimal.valueOf(400L);
+    private final String DESCRIPTION = " with chocolate";
 
 
-    protected CaramelDecorator(Coffee coffee) {
+    protected ChocolateDecorator(Coffee coffee) {
         super(coffee);
     }
 

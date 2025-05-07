@@ -1,4 +1,4 @@
-package structural.decorator.example.datasource;
+package structural.decorator.code.datasource;
 
 public abstract class DataSourceDecorator implements DataSource {
 

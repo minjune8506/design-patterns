@@ -1,4 +1,4 @@
-package structural.decorator.example.datasource;
+package structural.decorator.code.datasource;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

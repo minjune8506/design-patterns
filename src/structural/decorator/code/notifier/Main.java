@@ -1,4 +1,4 @@
-package structural.decorator.example.notifier;
+package structural.decorator.code.notifier;
 
 public class Main {
 

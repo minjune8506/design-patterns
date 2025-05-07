@@ -1,4 +1,4 @@
-package structural.decorator.example.coffee;
+package structural.decorator.code.coffee;
 
 import java.math.BigDecimal;
 
