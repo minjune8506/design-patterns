@@ -2,7 +2,7 @@
 
 ## Creational Patterns
 
-- Factory Method
+- [Factory Method](/src/creational/factorymethod/docs/FactoryMethod.md)
 - Abstract Factory
 - Builder
 - Prototype
@@ -15,7 +15,7 @@
 - [Composite](/src/structural/composite/docs/composite.md)
 - [Decorator](/src/structural/decorator/docs/Decorator.md)
 - [Facade](/src/structural/facade/docs/Facade.md)
-- Flyweight
+- [Flyweight](src/structural/flywieght/docs/FlyWeight.md)
 - [Proxy](src/structural/proxy/docs/Proxy.md)
 
 ## Behavioral Patterns
